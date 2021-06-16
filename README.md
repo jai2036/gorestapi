@@ -1,5 +1,5 @@
 # gorestapi
-Quick start with  GO lang to implement rest api operation. 
+Quick start with  GO lang to implement rest api and various operations. 
 
 ## Description
 Rest api exposes GET AND POST methods to user. 
