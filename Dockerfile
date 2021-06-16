@@ -1,5 +1,5 @@
 FROM golang
-
+# basic requirements
 RUN apt-get update && apt-get -y install vim 
 ENV APP  /home/dev/app
 RUN mkdir -p $APP
