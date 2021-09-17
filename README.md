@@ -44,10 +44,3 @@ $ cd Projects
 # Run your image 
 ~gorestapi/$ docker run -d -p 8080:8080 <image id>
 ```
-
-## Author
-Jai K. 
-
-### Version History
-
-+  01 Initial release. 
